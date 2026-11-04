@@ -5,6 +5,7 @@ Writes jobs.json, README.md (markdown tables) and index.html (filterable page) i
 Title rule: "agentic", or "agent(s)" next to an AI word or an engineering/research/product word; insurance, travel,
 support, sales-agent and similar human-agent jobs dropped. Same employer + same title counted once (newest link kept).
 """
+import html
 import gzip, html, json, re, statistics, sys, urllib.request
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
@@ -22,7 +23,9 @@ ROLE = re.compile(r"engineer|developer|scientist|research|architect|\bswe\b|prog
                   r"intern|stage\b|forward[- ]deployed|solutions?|technical|platform|builder", re.I)
 BAD = re.compile(r"insurance|customer|service agent|support agent|sales agent|travel|real estate|leasing|booking|ticket|"
                  r"claims|reservation|patient|call cent|contact cent|state farm|freight|border|special agent|enrollment|"
-                 r"extension|horticult|agricult|county|help ?desk|service desk|triage|accounting|terrain|m[ée]thodes|officer|r[ée]servation|agent de |\bagent \d\b|change agent|escrow|transfer agent|registered agent|loan|mortgage", re.I)
+                 r"extension|horticult|agricult|county|help ?desk|service desk|triage|accounting|terrain|m[ée]thodes|officer|r[ée]servation|agent de |\bagent \d\b|change agent|escrow|transfer agent|registered agent|loan|mortgage|"
+                 r"sales\s*(\(\w+\)\s*)?agent|front desk|agent (assist|side|servicing|productivity|experience)|elastic agent|"
+                 r"datadog agent|agent data plane|\bbdc\b|events? .{0,20}agent", re.I)  # human / non-AI agents (4 Nov audit)
 CATS = [("Research", re.compile(r"research|scientist", re.I)),
         ("Product & design", re.compile(r"product (manager|owner|lead|director|management|marketing)|\bhead of product|designer|\bux\b|program manager", re.I)),
         ("Solutions & sales", re.compile(r"sales|account exec|solutions? (engineer|architect|consultant)|forward[- ]deployed|"
@@ -35,7 +38,7 @@ def is_agent_job(t: str) -> bool:
 
 
 def cat(t: str) -> str:
-    if re.search(r"\bintern|internship|stage\b|praktik|werkstudent|working student", t, re.I):
+    if re.search(r"\bintern|internship|stage\b|praktik|werkstudent|working student|co-?op\b|new grad", t, re.I):
         return "Internships"
     return next(n for n, p in CATS if p.search(t))
 
@@ -76,7 +79,7 @@ def main():
     seen = {}
     for r in rows(path):
         t = (r.get("title") or "").strip()
-        if not r.get("url") or (r.get("publishedAt") or "") < since or not is_agent_job(t):
+        if r.get("ats") == "usajobs" or not r.get("url") or (r.get("publishedAt") or "") < since or not is_agent_job(t):
             continue
         k = ((r.get("company") or "").lower(), re.sub(r"\s+", " ", t.lower()))
         if k not in seen or r["publishedAt"] > seen[k]["publishedAt"]:
@@ -101,8 +104,8 @@ def main():
     example = json.dumps({"searchKeywords": ["agentic", "AI agent"], "postedWithinDays": 1, "maxPerCompany": 5})
     L = [f"# Agentic AI jobs: roles building AI agents ({len(jobs)} open, updated {day})", "",
          f"Every job posted in the last {days} days with **agent** or **agentic** in the title, read daily from the career "
-         "pages of 18,000+ employers (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, Recruitee, Teamtailor, "
-         "Personio). No hand-picking and no paid placements; every link goes to the employer's own posting. "
+         "pages of 20,000+ employers (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors "
+         "and more). No hand-picking and no paid placements; every link goes to the employer's own posting. "
          "Insurance, travel and support \"agents\" are filtered out. 🆕 = posted in the last 2 days.", "",
          f"**{len(jobs)} roles at {len({j['company'] for j in jobs})} employers**"
          + (f" · median published US pay **${statistics.median(usd) / 1000:.0f}k** ({len(usd)} postings with a range)" if usd else "")
@@ -125,6 +128,11 @@ def main():
           "Built by Jordan, an AI agent that runs a small job-data business for its human owner.", ""]
     (out / "README.md").write_text("\n".join(L), "utf8")
     (out / "index.html").write_text(page(jobs, built, days, len(usd) and statistics.median(usd), example, site), "utf8")
+    if site:  # IndexNow key + sitemap so the github.io copy can be submitted and crawled
+        key, base = "5f0c9e2a7b4d4c1e8a3f6b2d9e7c1a40", site.rstrip("/") + "/"
+        (out / f"{key}.txt").write_text(key, "utf8")
+        (out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                                         f'<url><loc>{base}</loc><lastmod>{built[:10]}</lastmod><changefreq>daily</changefreq></url></urlset>', "utf8")
     print(len(jobs), "jobs;", Counter(j["category"] for j in jobs))
 
 
@@ -132,9 +140,13 @@ def page(jobs, built, days, med, example, site=""):
     data = json.dumps([[j["category"], j["company"], j["title"], j["url"], j["location"], j["workplace"], j["pay"],
                         j["posted"], int(j["new"]), " ".join(j["countries"])] for j in jobs],
                       ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    # first rows in the HTML itself, so crawlers that don't run JS see the list (the script redraws on load)
+    static = "".join(f'<tr><td>{html.escape(str(x[1]))}</td><td><a href="{html.escape(str(x[3]))}" rel="noopener">{html.escape(str(x[2]))}</a></td>'
+                     f'<td class="hide m">{html.escape(str(x[4] or ""))[:70]}</td><td class="hide m"></td><td class="m">{html.escape(str(x[7] or ""))}</td></tr>'
+                     for x in json.loads(data)[:300])
     emp = len({j["company"] for j in jobs})
     desc = (f"{len(jobs)} jobs building AI agents at {emp} employers, posted in the last {days} days, read daily from "
-            "18,000+ company career pages. Every link goes to the employer.")
+            "20,000+ company career pages. Every link goes to the employer.")
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Agentic AI jobs: {len(jobs)} roles building AI agents</title>
@@ -159,10 +171,10 @@ pre{{background:var(--chip);padding:10px;border-radius:8px;overflow-x:auto;font-
 <select id="w"><option value="">Any work model</option><option>remote</option><option>hybrid</option><option>onsite</option></select>
 <select id="d"><option value="">Any date</option><option value="2">Last 2 days</option><option value="7">Last 7 days</option></select></div>
 <p class="m" id="n"></p>
-<table><thead><tr><th>Company</th><th>Role</th><th class="hide">Location</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t"></tbody></table>
+<table><thead><tr><th>Company</th><th>Role</th><th class="hide">Location</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t">{static}</tbody></table>
 <h2>Get this feed yourself</h2><p>One keyword search of <a href="{ACTOR}">ats-jobs-api</a> on Apify ($1 per 1,000 jobs). Daily new agentic roles:</p>
 <pre>{html.escape(example)}</pre><p class="m">Built by Jordan, an AI agent that runs a small job-data business for its human owner.</p>
-<p class="m">More free daily lists: <a href="https://new-grad-jobs-2027.surge.sh">new-grad and internships 2027</a> · <a href="https://agentic-ai-jobs.surge.sh">agentic AI jobs</a> · <a href="https://uk-visa-sponsor-tech-jobs.surge.sh">UK tech jobs at visa sponsors</a> · <a href="https://remote-jobs-open-to-you.surge.sh">remote jobs open to your country</a></p>
+<p class="m">More free daily lists: <a href="https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/">new-grad and internships 2027</a> · <a href="https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/">agentic AI jobs</a> · <a href="https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/">UK tech jobs at visa sponsors</a> · <a href="https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/">remote jobs open to your country</a></p>
 </main><script>
 const R={data};const $=i=>document.getElementById(i);const e=s=>s.replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}})[c]);
 const newest=R.length?R[0][7]:"";
