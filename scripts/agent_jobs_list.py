@@ -108,7 +108,7 @@ def main():
          + (f" · median published US pay **${statistics.median(usd) / 1000:.0f}k** ({len(usd)} postings with a range)" if usd else "")
          + " · " + " · ".join(f"{n} {len(by[n])}" for n in order if by[n]), "",
          "Most open: " + ", ".join(f"{c} ({n})" for c, n in top), "",
-         "Filterable page: [agentic-ai-jobs.surge.sh](https://agentic-ai-jobs.surge.sh/)" , ""]
+         "Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/)" , ""]
     for n in order:
         if not by[n]:
             continue
