@@ -1,31 +1,34 @@
-# Agentic AI jobs: roles building AI agents (861 open, updated 2026-11-07)
+# Agentic AI jobs: roles building AI agents (844 open, updated 2026-11-08)
 
 Every job posted in the last 30 days with **agent** or **agentic** in the title, read daily from the career pages of 20,000+ employers (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). No hand-picking and no paid placements; every link goes to the employer's own posting. Insurance, travel and support "agents" are filtered out. 🆕 = posted in the last 2 days.
 
-**861 roles at 444 employers** · median published US pay **$220k** (189 postings with a range) · Engineering 577 · Research 30 · Product & design 124 · Solutions & sales 75 · Internships 55
+**844 roles at 437 employers** · median published US pay **$220k** (180 postings with a range) · Engineering 564 · Research 30 · Product & design 122 · Solutions & sales 71 · Internships 57
 
-Most open: JPMorgan Chase (44), NVIDIA (44), Capgemini (22), Capital One (13), American Express (12), ServiceNow (12), Bosch Group (10), Salesforce (9), PricewaterhouseCoopers (PwC) (9), Fidelity National Information Services (9), Citi (9), Sopra Steria (7)
+Most open: NVIDIA (44), JPMorgan Chase (42), Capgemini (23), Capital One (13), American Express (12), ServiceNow (10), Bosch Group (10), Salesforce (9), PricewaterhouseCoopers (PwC) (9), Fidelity National Information Services (9), Citi (9), Apple (8)
 
 Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/)
 
-## Engineering (577)
+## Engineering (564)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| Capgemini | 🆕 [Agentic AI Platform Senior DevOps](https://careers.capgemini.com/job/Iasi-Agentic-AI-Platform-Senior-DevOps/1434389533/) | Iasi, RO |  | 2026-11-07 |
-| Capgemini | 🆕 [AIOps & Agentic AI Architect](https://careers.capgemini.com/job/Irving%2C-TX-AIOps-&-Agentic-AI-Architect-TX-75014/1450478233/) | Irving, TX, US | USD 101k-183k | 2026-11-07 |
-| Capgemini | 🆕 [Senior AI Engineer - Generative AI & Agentic AI](https://careers.capgemini.com/job/Hyderabad-Senior-AI-Engineer-Generative-AI-&-Agentic-AI/1450328633/) | Hyderabad, IN |  | 2026-11-07 |
-| Capgemini | 🆕 [Agentic AI Architect / Lead - Snowflake Cortex](https://careers.capgemini.com/job/Irving%2C-TX-Agentic-AI-Architect-Lead-Snowflake-Cortex-TX-75014/1419455533/) | Irving, TX, US |  | 2026-11-07 |
-| Capgemini | 🆕 [Agentic Integration & MCP Engineer](https://careers.capgemini.com/job/Wroc%C5%82aw-Agentic-Integration-&-MCP-Engineer/1439557833/) | Wrocław, PL |  | 2026-11-07 |
+| Capgemini | 🆕 [Engineer (Agentic AI)](https://careers.capgemini.com/job/Warszawa-Engineer-%28Agentic-AI%29/1367498333/) | Warszawa, PL |  | 2026-11-08 |
+| Capgemini | 🆕 [Senior Agentic AI Solution Specialist](https://careers.capgemini.com/job/Madrid-Senior-Agentic-AI-Solution-Specialist/1435297033/) | Madrid, ES |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI with GCP](https://careers.capgemini.com/job/Kolkata-Agentic-AI-with-GCP/1419860133/) | Kolkata, IN |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI](https://careers.capgemini.com/job/Bangalore-Agentic-AI/1455377533/) | Bangalore, IN |  | 2026-11-08 |
+| Capgemini | 🆕 [Senior Gen AI/Agentic AI Full stack](https://careers.capgemini.com/job/Cairo-Senior-Gen-AIAgentic-AI-Full-stack/1449020333/) | Cairo, EG |  | 2026-11-08 |
+| Capgemini | 🆕 [Enterprise Architect - AI & Agentic AI](https://careers.capgemini.com/job/London-Enterprise-Architect-AI-&-Agentic-AI/1453022333/) | London, GB |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI Cloud Engineer (Cloud & Custom Applications)](https://careers.capgemini.com/job/Stockholm-Agentic-AI-Cloud-Engineer-%28Cloud-&-Custom-Applications%29/1373464833/) | Stockholm, SE |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI Lead](https://careers.capgemini.com/job/Utrecht-Agentic-AI-Lead/1411658033/) | Utrecht, NL |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI Developer - C2](https://careers.capgemini.com/job/Noida-Agentic-AI-Developer-C2/1453236733/) | Noida, IN |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI Solution Specialist](https://careers.capgemini.com/job/Stockholm-Agentic-AI-Solution-Specialist/1428578233/) | Stockholm, SE |  | 2026-11-08 |
+| Capgemini | 🆕 [Agentic AI Architect](https://careers.capgemini.com/job/Kolkata-Agentic-AI-Architect/1420036033/) | Kolkata, IN |  | 2026-11-08 |
+| Clera | 🆕 [Backend / Systems Engineer, Agent Infrastructure](https://jobs.ashbyhq.com/Clera/5120fc1c-d2b1-497d-8a54-1d7e7561986b) | Berlin (onsite) |  | 2026-11-07 |
 | Capgemini | 🆕 [Senior Agentic AI Tech Lead](https://careers.capgemini.com/job/Pune-Senior-Agentic-AI-Tech-Lead/1453322733/) | Pune, IN |  | 2026-11-07 |
 | Capgemini | 🆕 [Lead Software Engineer: Full stack agentic IA](https://careers.capgemini.com/job/Casablanca-Lead-Software-Engineer-Full-stack-agentic-IA/1453191433/) | Casablanca, MA |  | 2026-11-07 |
 | Capgemini | 🆕 [Lead Software Engineer: Expert Agentic AI & Code Graph](https://careers.capgemini.com/job/Casablanca-Lead-Software-Engineer-Expert-Agentic-AI-&-Code-Graph/1453191533/) | Casablanca, MA |  | 2026-11-07 |
-| Capgemini | 🆕 [Manager Agentic AI & Process Transformation - Manufacturing (w/m/d)](https://careers.capgemini.com/job/Muenchen-Manager-Agentic-AI-&-Process-Transformation-Manufacturing-%28wmd%29/1449081133/) | Muenchen, DE |  | 2026-11-07 |
 | Capgemini | 🆕 [Agentic SDLC Engineer](https://careers.capgemini.com/job/Utrecht-Agentic-SDLC-Engineer/1410382733/) | Utrecht, NL |  | 2026-11-07 |
-| Capgemini | 🆕 [Senior Software Engineer (Agentic AI, Cloud-native, On-prem)](https://careers.capgemini.com/job/Wroc%C5%82aw-Senior-Software-Engineer-%28Agentic-AI%2C-Cloud-native%2C-On-prem%29/1388839033/) | Wrocław, PL |  | 2026-11-07 |
-| Capgemini | 🆕 [Agentic AI Automation Specialist](https://careers.capgemini.com/job/Stockholm-Agentic-AI-Automation-Specialist/1383562333/) | Stockholm, SE |  | 2026-11-07 |
 | Sift Stack, Inc. | 🆕 [Senior Software Engineer, Backend  (Agentic AI)](https://jobs.ashbyhq.com/siftstack/38350564-6a34-4c87-9f21-44e75b55da85) | San Francisco, CA (hybrid) | USD 180k-230k | 2026-11-07 |
-| Plug Technologies Inc | 🆕 [Sr. Software Engineer, Agents](https://jobs.ashbyhq.com/plugmotors/1d6bb926-5020-4400-b9e4-e2f5c33c7eaa) | Los Angeles (onsite) | USD 175k-200k | 2026-11-06 |
 | Ellipsis Health | 🆕 [Senior Software Engineer, Agents](https://jobs.ashbyhq.com/ellipsis-health/e2ce6a32-7afa-4c75-9ad4-8cd4e89f4019) | New York - Hybrid (hybrid) | USD 160k-210k | 2026-11-06 |
 | Advanced Micro Devices, Inc | 🆕 [Principal Software Engineer, Agentic AI](https://careers.amd.com/jobs/96896) | Austin, Texas | USD 186k-265k | 2026-11-06 |
 | Advanced Micro Devices, Inc | 🆕 [Fellow, Agentic AI Software](https://careers.amd.com/jobs/96895) | Austin, Texas | USD 203k-290k | 2026-11-06 |
@@ -43,68 +46,68 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | EWOR GmbH | 🆕 [Agentic AI Co-Founder / Head of Engineering (100 % remote) (m/f/d)](https://eworgmbh.teamtailor.com/jobs/8679574-agentic-ai-co-founder-head-of-engineering-100-remote-m-f-d) | Copenhagen, Denmark (remote) |  | 2026-11-06 |
 | Bjak | 🆕 [Backend Engineer, AI (Agent Systems)](https://jobs.ashbyhq.com/bjakcareer/f5f3ee17-ce2c-4174-8b28-36d84a48a47f) | Poland (remote) |  | 2026-11-06 |
 | MET Group | 🆕 [AI Agent Engineering Lead](https://jobs.smartrecruiters.com/METGroup/744000160135469) | Budapest, Hungary (onsite) |  | 2026-11-06 |
-| Capgemini | 🆕 [Senior Agentic AI Solution Specialist](https://careers.capgemini.com/job/Frankfurt-am-Main-Senior-Agentic-AI-Solution-Specialist/1436648433/) | Frankfurt am Main, DE |  | 2026-11-06 |
-| Capgemini | 🆕 [AI Agentic Embedded Architect](https://careers.capgemini.com/job/Issy-les-Moulineaux-AI-Agentic-Embedded-Architect/1196918801/) | Issy-les-Moulineaux, FR |  | 2026-11-06 |
-| Capgemini | 🆕 [ABL -  Agent Engineer](https://careers.capgemini.com/job/Aguascalientes-ABL-Agent-Engineer/1444477733/) | Aguascalientes, MX |  | 2026-11-06 |
-| Capgemini | 🆕 [Agentic AI Developer](https://careers.capgemini.com/job/Navi-Mumbai-Agentic-AI-Developer/1402722133/) | Navi Mumbai, IN |  | 2026-11-06 |
-| Blue | 🆕 [Software Engineer - Agents - Mid level to Staff/Manager](https://www.ycombinator.com/companies/blue/jobs/o1BlEQ5-software-engineer-agents-mid-level-to-staff-manager) | Santa Clara, CA, US | USD 160k-340k | 2026-11-06 |
-| SAP | 🆕 [Senior Developer - Python/LLMs/RAG/AI Agents (7-12 years)](https://careers.sap.com/job/Bangalore-Senior-Developer-PythonLLMsRAGAI-Agents-%287-12-years%29-560066/1427255633/) | Bangalore, IN |  | 2026-11-06 |
-| Southwest Airlines | 🆕 [Sr Mgr Technology - Agentic & Intelligence Platforms](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Mgr-Technology---Agentic---Intelligence-Platforms_R-2026-73002) | Dallas, Texas, United States of America |  | 2026-11-06 |
-| American Express | 🆕 [Senior Manager - Agentic Commerce](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015019) | New York, NY, United States |  | 2026-11-06 |
-| Pearson | 🆕 [Advanced Specialist, Content Developer (Agentic AI Solutions)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25272) | Poland |  | 2026-11-06 |
-| JPMorgan Chase | 🆕 [Lead Software Engineer - Agentic AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778106) | Jersey City, NJ, United States |  | 2026-11-06 |
-| JPMorgan Chase | 🆕 [Experience Design Vice President - Agentic Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807338) | New York, NY, United States |  | 2026-11-06 |
-| JPMorgan Chase | 🆕 [Agentic AI Director of Software Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807589) | OH, United States |  | 2026-11-06 |
-| Capital One | 🆕 [AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407) | McLean, VA |  | 2026-11-06 |
-| Bank of America | 🆕 [Principal Engineer - Agentic AI Engineering](https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Charlotte/Principal-Engineer---Agentic-AI-Engineering_26040895-1) | Charlotte |  | 2026-11-06 |
-| Accenture | 🆕 [PXM Business Analyst \| Agentic Commerce](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/PXM-Business-Analyst---Agentic-Commerce_R00356238) |  |  | 2026-11-06 |
-| NVIDIA | 🆕 [Senior Software Engineer, Agentic Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Systems_JR2018875) | US, CA, Santa Clara (remote) |  | 2026-11-06 |
-| PNC Financial Services | 🆕 [Software Engineer - AI Agents / Generative AI](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer---AI-Agents---Generative-AI_R240298-1) | PA - Pittsburgh (15222) |  | 2026-11-06 |
-| Cisco | 🆕 [Software Engineer - AI & Agentic Systems](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer---AI---Agentic-Systems_2025466) | San Jose, California, US (remote) |  | 2026-11-06 |
-| Salesforce | 🆕 [VP, Experience Design, Informatica and Enterprise Agentic Harness](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/VP--Experience-Design--Informatica-and-Enterprise-Agentic-Harness_JR367604) | California - San Francisco (hybrid) | USD 258k-452k | 2026-11-06 |
-| State Street | 🆕 [Software Developer (AI & Agentic Engineering), SrAssc](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Developer--AI---Agentic-Engineering---SrAssc_R-795530) | Hangzhou, China |  | 2026-11-06 |
-| Caterpillar | 🆕 [Principal Software Engineer - Agentic AI & Simulation Automation](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Software-Engineer---Agentic-AI---Simulation-Automation_R0000404257) | Irving, Texas |  | 2026-11-06 |
-| Novartis | 🆕 [Director, Agentic Lab](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Director--Agentic-Lab_REQ-10086326) | East Hanover |  | 2026-11-06 |
-| The Greater Change | 🆕 [Deployment Engineer (Large-Scale IoT & Agentic Infrastructure)](https://apply.workable.com/j/76BD229D38) | Dubai, Dubai, United Arab Emirates |  | 2026-11-06 |
-| Airwallex | 🆕 [Engineering Director, Agentic AI Data Platform](https://jobs.ashbyhq.com/airwallex/23a418be-f7a0-499f-abd7-b942fd026209) | US - San Francisco (hybrid) | USD 300k-400k | 2026-11-05 |
-| Ellipsis Health | 🆕 [Senior ML Engineer, Agentic AI](https://jobs.ashbyhq.com/ellipsis-health/82eb0470-8b60-4049-a310-36d839053ea8) | San Francisco - Hybrid (hybrid) | USD 160k-210k | 2026-11-05 |
-| ServiceNow | 🆕 [Senior Software Engineer, Agentic Platform - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000159960802) | Mountain View, CALIFORNIA, United States (onsite) |  | 2026-11-05 |
-| Airbyte | 🆕 [Staff Backend Engineer, Agent Infrastructure](https://jobs.ashbyhq.com/airbyte/b59bbc91-fb77-4a08-9c47-0fca7f755942) | San Francisco (hybrid) | USD 196k-235k | 2026-11-05 |
-| OpenAI | 🆕 [Software Engineer, Agent Platform](https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004) | San Francisco (hybrid) | USD 230k-385k | 2026-11-05 |
-| Equi | 🆕 [MD, Agentic Fund Finance & Operations](https://jobs.ashbyhq.com/equi/29416ec8-f49b-454f-8774-31a870bc9cbb) | New York (on-site) (hybrid) | USD 170k-225k | 2026-11-05 |
-| Probook | 🆕 [Member of the Technical Staff - Agent Infrastructure](https://jobs.ashbyhq.com/probook/55db55dc-d9f9-4592-967a-db04c4a29983) | Manhattan (onsite) | USD 200k-300k | 2026-11-05 |
-| Clera | 🆕 [Founding Engineer, Agents](https://jobs.ashbyhq.com/Clera/e8c0110c-0a12-4f27-ba41-9ca2a55eec31) | San Francisco (onsite) | USD 200k-300k | 2026-11-05 |
-| Cuesta Partners | 🆕 [Senior Software Engineer, Custom Apps and AI Agents](https://jobs.ashbyhq.com/cuesta-partners/d84881ce-05ea-49cb-abe9-f49023db1738) | Remote US (remote) | USD 150k-250k | 2026-11-05 |
-| DiDi Labs | 🆕 [Machine Learning Engineer - Agentic AI](https://job-boards.greenhouse.io/didi/jobs/8356571) | San Jose, CA | USD 170k-282k | 2026-11-05 |
-| Future Works | 🆕 [Lead AI/Agent Architect](https://jobs.ashbyhq.com/futureworks/d8c95179-6d78-4986-9fe6-278c0ac6da4e) | London (remote) |  | 2026-11-05 |
-| Sopra Steria | 🆕 [AI Agent Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000159859897) | Nieuwegein, UT, Netherlands (onsite) |  | 2026-11-05 |
-| QAD, Inc. | 🆕 [Senior QA Engineer, AI Agents & Agentic Workflows](https://jobs.smartrecruiters.com/QADInc/744000159858895) | Pune, MH, India (hybrid) |  | 2026-11-05 |
-| Nebius | 🆕 [Senior/Staff Evaluation Data Analyst (Agentic Search)](https://careers.nebius.com/?gh_jid=5027907101) | London, United Kingdom |  | 2026-11-05 |
-| Redwood Software | 🆕 [Senior Agentic Technical Writer](https://job-boards.greenhouse.io/redwoodsoftware/jobs/4470810009) | Ontario, Canada | CAD 100k-120k | 2026-11-05 |
-| Red Cell Partners | 🆕 [Deputy General Manager, Agentic AI](https://job-boards.greenhouse.io/redcellpartners/jobs/5278721007) | McLean, Virginia | USD 150k-200k | 2026-11-05 |
-| Bosch Group | 🆕 [Senior/Lead Software Developer – Agentic Orchestrator](https://jobs.smartrecruiters.com/BoschGroup/744000159837695) | Budapest, Hungary (onsite) |  | 2026-11-05 |
-| EvolutionIQ | 🆕 [Senior AI Engineer (CCC Auto / Agentic)](https://job-boards.greenhouse.io/evolutioniq/jobs/6242825004) | Chicago, IL or Remote (remote) | USD 180k-225k | 2026-11-05 |
-| EvolutionIQ | 🆕 [AI Engineer (CCC Auto / Agentic)](https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004) | Chicago, IL or Remote (remote) | USD 170k-195k | 2026-11-05 |
-| Wavestone | 🆕 [Manager – Agentic Automation & Low-Code Lead (H/F/X)](https://jobs.smartrecruiters.com/Wavestone1/744000159834559) | Puteaux, IDF, France (onsite) |  | 2026-11-05 |
-| Bosch Group | 🆕 [Senior Software Developer – Agentic Coder](https://jobs.smartrecruiters.com/BoschGroup/744000159804269) | Budapest, Hungary (onsite) |  | 2026-11-05 |
-| Exadel | 🆕 [Middle AI Agent & Developer Experience Engineer](https://job-boards.greenhouse.io/externaljobboards/jobs/6250400004) | São Paulo or Rio de Janeiro, Brazil |  | 2026-11-05 |
-| Sierra | 🆕 [Software Engineer, Agent](https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb) | Singapore (onsite) | SGD 295k-495k | 2026-11-05 |
+| Capgemini | [AI Agentic Embedded Architect](https://careers.capgemini.com/job/Issy-les-Moulineaux-AI-Agentic-Embedded-Architect/1196918801/) | Issy-les-Moulineaux, FR |  | 2026-11-06 |
+| Capgemini | [ABL -  Agent Engineer](https://careers.capgemini.com/job/Aguascalientes-ABL-Agent-Engineer/1444477733/) | Aguascalientes, MX |  | 2026-11-06 |
+| Capgemini | [Agentic AI Developer](https://careers.capgemini.com/job/Navi-Mumbai-Agentic-AI-Developer/1402722133/) | Navi Mumbai, IN |  | 2026-11-06 |
+| Blue | [Software Engineer - Agents - Mid level to Staff/Manager](https://www.ycombinator.com/companies/blue/jobs/o1BlEQ5-software-engineer-agents-mid-level-to-staff-manager) | Santa Clara, CA, US | USD 160k-340k | 2026-11-06 |
+| SAP | [Senior Developer - Python/LLMs/RAG/AI Agents (7-12 years)](https://careers.sap.com/job/Bangalore-Senior-Developer-PythonLLMsRAGAI-Agents-%287-12-years%29-560066/1427255633/) | Bangalore, IN |  | 2026-11-06 |
+| Southwest Airlines | [Sr Mgr Technology - Agentic & Intelligence Platforms](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Mgr-Technology---Agentic---Intelligence-Platforms_R-2026-73002) | Dallas, Texas, United States of America |  | 2026-11-06 |
+| American Express | [Senior Manager - Agentic Commerce](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015019) | New York, NY, United States |  | 2026-11-06 |
+| Pearson | [Advanced Specialist, Content Developer (Agentic AI Solutions)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25272) | Poland |  | 2026-11-06 |
+| JPMorgan Chase | [Lead Software Engineer - Agentic AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778106) | Jersey City, NJ, United States |  | 2026-11-06 |
+| JPMorgan Chase | [Experience Design Vice President - Agentic Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807338) | New York, NY, United States |  | 2026-11-06 |
+| JPMorgan Chase | [Agentic AI Director of Software Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807589) | OH, United States |  | 2026-11-06 |
+| Capital One | [AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407) | McLean, VA |  | 2026-11-06 |
+| Bank of America | [Principal Engineer - Agentic AI Engineering](https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Charlotte/Principal-Engineer---Agentic-AI-Engineering_26040895-1) | Charlotte |  | 2026-11-06 |
+| Accenture | [PXM Business Analyst \| Agentic Commerce](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/PXM-Business-Analyst---Agentic-Commerce_R00356238) |  |  | 2026-11-06 |
+| NVIDIA | [Senior Software Engineer, Agentic Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Systems_JR2018875) | US, CA, Santa Clara (remote) |  | 2026-11-06 |
+| PNC Financial Services | [Software Engineer - AI Agents / Generative AI](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer---AI-Agents---Generative-AI_R240298-1) | PA - Pittsburgh (15222) |  | 2026-11-06 |
+| Cisco | [Software Engineer - AI & Agentic Systems](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer---AI---Agentic-Systems_2025466) | San Jose, California, US (remote) |  | 2026-11-06 |
+| Salesforce | [VP, Experience Design, Informatica and Enterprise Agentic Harness](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/VP--Experience-Design--Informatica-and-Enterprise-Agentic-Harness_JR367604) | California - San Francisco (hybrid) | USD 258k-452k | 2026-11-06 |
+| State Street | [Software Developer (AI & Agentic Engineering), SrAssc](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Developer--AI---Agentic-Engineering---SrAssc_R-795530) | Hangzhou, China |  | 2026-11-06 |
+| Caterpillar | [Principal Software Engineer - Agentic AI & Simulation Automation](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Software-Engineer---Agentic-AI---Simulation-Automation_R0000404257) | Irving, Texas |  | 2026-11-06 |
+| Novartis | [Director, Agentic Lab](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Director--Agentic-Lab_REQ-10086326) | East Hanover |  | 2026-11-06 |
+| Fluent, LLC | [Software Engineer (AI Agents)](https://apply.workable.com/j/0743C147C3) | New York, New York, United States | USD 130k-155k | 2026-11-06 |
+| The Greater Change | [Deployment Engineer (Large-Scale IoT & Agentic Infrastructure)](https://apply.workable.com/j/76BD229D38) | Dubai, Dubai, United Arab Emirates |  | 2026-11-06 |
+| Airwallex | [Engineering Director, Agentic AI Data Platform](https://jobs.ashbyhq.com/airwallex/23a418be-f7a0-499f-abd7-b942fd026209) | US - San Francisco (hybrid) | USD 300k-400k | 2026-11-05 |
+| Ellipsis Health | [Senior ML Engineer, Agentic AI](https://jobs.ashbyhq.com/ellipsis-health/82eb0470-8b60-4049-a310-36d839053ea8) | San Francisco - Hybrid (hybrid) | USD 160k-210k | 2026-11-05 |
+| ServiceNow | [Senior Software Engineer, Agentic Platform - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000159960802) | Mountain View, CALIFORNIA, United States (onsite) |  | 2026-11-05 |
+| Airbyte | [Staff Backend Engineer, Agent Infrastructure](https://jobs.ashbyhq.com/airbyte/b59bbc91-fb77-4a08-9c47-0fca7f755942) | San Francisco (hybrid) | USD 196k-235k | 2026-11-05 |
+| OpenAI | [Software Engineer, Agent Platform](https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004) | San Francisco (hybrid) | USD 230k-385k | 2026-11-05 |
+| Equi | [MD, Agentic Fund Finance & Operations](https://jobs.ashbyhq.com/equi/29416ec8-f49b-454f-8774-31a870bc9cbb) | New York (on-site) (hybrid) | USD 170k-225k | 2026-11-05 |
+| Probook | [Member of the Technical Staff - Agent Infrastructure](https://jobs.ashbyhq.com/probook/55db55dc-d9f9-4592-967a-db04c4a29983) | Manhattan (onsite) | USD 200k-300k | 2026-11-05 |
+| Clera | [Founding Engineer, Agents](https://jobs.ashbyhq.com/Clera/e8c0110c-0a12-4f27-ba41-9ca2a55eec31) | San Francisco (onsite) | USD 200k-300k | 2026-11-05 |
+| Cuesta Partners | [Senior Software Engineer, Custom Apps and AI Agents](https://jobs.ashbyhq.com/cuesta-partners/d84881ce-05ea-49cb-abe9-f49023db1738) | Remote US (remote) | USD 150k-250k | 2026-11-05 |
+| DiDi Labs | [Machine Learning Engineer - Agentic AI](https://job-boards.greenhouse.io/didi/jobs/8356571) | San Jose, CA | USD 170k-282k | 2026-11-05 |
+| Future Works | [Lead AI/Agent Architect](https://jobs.ashbyhq.com/futureworks/d8c95179-6d78-4986-9fe6-278c0ac6da4e) | London (remote) |  | 2026-11-05 |
+| Sopra Steria | [AI Agent Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000159859897) | Nieuwegein, UT, Netherlands (onsite) |  | 2026-11-05 |
+| QAD, Inc. | [Senior QA Engineer, AI Agents & Agentic Workflows](https://jobs.smartrecruiters.com/QADInc/744000159858895) | Pune, MH, India (hybrid) |  | 2026-11-05 |
+| Nebius | [Senior/Staff Evaluation Data Analyst (Agentic Search)](https://careers.nebius.com/?gh_jid=5027907101) | London, United Kingdom |  | 2026-11-05 |
+| Redwood Software | [Senior Agentic Technical Writer](https://job-boards.greenhouse.io/redwoodsoftware/jobs/4470810009) | Ontario, Canada | CAD 100k-120k | 2026-11-05 |
+| Red Cell Partners | [Deputy General Manager, Agentic AI](https://job-boards.greenhouse.io/redcellpartners/jobs/5278721007) | McLean, Virginia | USD 150k-200k | 2026-11-05 |
+| Bosch Group | [Senior/Lead Software Developer – Agentic Orchestrator](https://jobs.smartrecruiters.com/BoschGroup/744000159837695) | Budapest, Hungary (onsite) |  | 2026-11-05 |
+| EvolutionIQ | [Senior AI Engineer (CCC Auto / Agentic)](https://job-boards.greenhouse.io/evolutioniq/jobs/6242825004) | Chicago, IL or Remote (remote) | USD 180k-225k | 2026-11-05 |
+| EvolutionIQ | [AI Engineer (CCC Auto / Agentic)](https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004) | Chicago, IL or Remote (remote) | USD 170k-195k | 2026-11-05 |
+| Wavestone | [Manager – Agentic Automation & Low-Code Lead (H/F/X)](https://jobs.smartrecruiters.com/Wavestone1/744000159834559) | Puteaux, IDF, France (onsite) |  | 2026-11-05 |
+| Bosch Group | [Senior Software Developer – Agentic Coder](https://jobs.smartrecruiters.com/BoschGroup/744000159804269) | Budapest, Hungary (onsite) |  | 2026-11-05 |
+| Exadel | [Middle AI Agent & Developer Experience Engineer](https://job-boards.greenhouse.io/externaljobboards/jobs/6250400004) | São Paulo or Rio de Janeiro, Brazil |  | 2026-11-05 |
+| Sierra | [Software Engineer, Agent](https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb) | Singapore (onsite) | SGD 295k-495k | 2026-11-05 |
 | Waste Management | [Builders Direct Desk Agent](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355602) | Tempe, AZ, United States (hybrid) |  | 2026-11-05 |
 | WSP | [AI Agent & Data Lead](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98259) | United Kingdom |  | 2026-11-05 |
 | Capital One | [Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Director--AI-Engineering--Agentic-AI-Platform-Remote-Eligible-_R1005337-1) | San Jose, CA (remote) |  | 2026-11-05 |
 | Booz Allen | [Agentic Operations Site Reliability Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Agentic-Operations-Site-Reliability-Engineer_R0253053) | McLean, VA |  | 2026-11-05 |
 | PricewaterhouseCoopers (PwC) | [Senior Associate AI & Agentic Software Development (w/m/d)](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Wien---Donau-City-Strae-7/Senior-Associate-AI---Agentic-Software-Development--w-m-d-_772656WD) | Wien - Donau-City-Straße 7 |  | 2026-11-05 |
 | Salesforce | [Principal Member of Technical Staff (PMTS) / Staff Software Engineer – AI Platform (Agentic Systems)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Member-of-Technical-Staff--PMTS----Staff-Software-Engineer---AI-Platform--Agentic-Systems-_JR366779) | California - San Francisco (hybrid) | USD 197k-314k | 2026-11-05 |
-| Hewlett Packard Enterprise | [Principal Agentic AI Offensive Security Engineer](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Principal-Agentic-AI-Security-Engineer_1218095) | Spring, Texas, United States of America |  | 2026-11-05 |
 | Wells Fargo | [Senior Quantitative Model Validator, NLP and Gen AI/ Agentic AI](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Quantitative-Model-Validator--NLP-and-Gen-AI--Agentic-AI_R-582066) | CHARLOTTE, NC |  | 2026-11-05 |
 | Wells Fargo | [Quantitative Model Validator, NLP and Gen AI/ Agentic AI](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Quantitative-Model-Validator--NLP-and-Gen-AI--Agentic-AI_R-582033) | CHARLOTTE, NC |  | 2026-11-05 |
+| Hewlett Packard Enterprise | [Principal Agentic AI Offensive Security Engineer](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Principal-Agentic-AI-Security-Engineer_1218095) | Spring, Texas, United States of America |  | 2026-11-05 |
 | Roche | [Procurement Solutions Manager (AI Agents & Workflow Automation)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Madrid/Procurement-Solutions-Manager--AI-Agents---Workflow-Automation-_202610-125926) | Madrid |  | 2026-11-05 |
 | Bank of Montreal | [Platform Engineer RPA and Agentic Automation](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Platform-Engineer-RPA-and-Agentic-Automation_R260029540) | Toronto, ON, CAN |  | 2026-11-05 |
 | Fidelity National Information Services | [Senior Software Engineer, Agentic AI Platforms](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-BNGL-FL4-TWR-3/Senior-Software-Engineer--Agentic-AI-Platforms_JR0310331) | IND BNGL FL4 TWR 3 |  | 2026-11-05 |
 | Fidelity National Information Services | [Senior Lead Software Engineer, Agentic AI Platforms](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-BNGL-FL2-3-TWR-3/Senior-Lead-Software-Engineer--Agentic-AI-Platforms_JR0310329) | IND BNGL FL2-3 TWR 3 |  | 2026-11-05 |
 | Thomson Reuters | [Senior AI Engineer, Agentic AI](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Machine-Learning-Engineer_JREQ199836) | Canada, Toronto, Ontario (hybrid) |  | 2026-11-05 |
-| Ingram Micro | [Senior Principal Services Architect, AI & Agentic Solutions (Google Cloud)](https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Senior-Principal-Services-Architect--AI---Agentic-Solutions--Google-Cloud-_R-118116) | Irvine, CA, United States of America (hybrid) |  | 2026-11-05 |
 | Rockwell Automation | [Agentic AI Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Agentic-AI-Operations-Engineer_R26-4572) | Medellin, Antioquia, Colombia (hybrid) |  | 2026-11-05 |
+| Ingram Micro | [Senior Principal Services Architect, AI & Agentic Solutions (Google Cloud)](https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Senior-Principal-Services-Architect--AI---Agentic-Solutions--Google-Cloud-_R-118116) | Irvine, CA, United States of America (hybrid) |  | 2026-11-05 |
 | ServiceNow | [Senior Staff Software Engineer\_Voice AI Agent Prompting](https://jobs.smartrecruiters.com/ServiceNow/744000159735140) | Santa Clara, California, United States (onsite) |  | 2026-11-04 |
 | Hippocratic AI | [Agent Deployment Architect](https://jobs.ashbyhq.com/Hippocratic%20AI/eb6b0ebd-fdd6-48f9-b7d3-4abcbb1f8a11) | United States (remote) |  | 2026-11-04 |
 | Ubisoft | [Senior Software Engineer – AI Agent Platform (W/M/X)](https://jobs.smartrecruiters.com/Ubisoft2/744000159635344) | Saint-Mandé, IDF, France (onsite) |  | 2026-11-04 |
@@ -134,8 +137,8 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Levi Strauss & Co. | [Lead Analyst- SAP Retail & Supply Chain, Agentic AI](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Bengaluru-India/SAP-Retail-Consultant_R-0148659-1) | Bengaluru, India |  | 2026-11-04 |
 | Hewlett Packard Enterprise | [Lead Agentic AI Offensive Security Engineer](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Lead-Agentic-AI-Offensive-Security-Engineer_1218093) | Spring, Texas, United States of America |  | 2026-11-04 |
 | Caterpillar | [Autonomy Operation Agent Engineer](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Autonomy-Operation-Agent-Engineer_R0000403253) | Wuxi, Jiangsu |  | 2026-11-04 |
-| Intel | [AI Platform and Agentic Engineer](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Platform-and-Agentic-Engineer_JR0287292) | India, Bangalore |  | 2026-11-04 |
 | Dentsu | [SAP AI Core / AI Agent Developer](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Pune---Indiqube-Orchid/SAP-AI-Core---AI-Agent-Developer_R1133811-4) | DGS India - Pune - Indiqube Orchid |  | 2026-11-04 |
+| Intel | [AI Platform and Agentic Engineer](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Platform-and-Agentic-Engineer_JR0287292) | India, Bangalore |  | 2026-11-04 |
 | Belmont Lavan Ltd | [Agent Security Engineer](https://apply.workable.com/j/AA2ED69F60) | Amsterdam, North Holland, Netherlands |  | 2026-11-04 |
 | JeffreyM Consulting | [Senior Software Engineer - AI Agents](https://apply.workable.com/j/106910EA4A) | San Francisco, California, United States | USD 180k-330k | 2026-11-04 |
 | Weekday AI | [Agentic AI Developer](https://apply.workable.com/j/E4A0C3FD74) | India (remote) |  | 2026-11-04 |
@@ -171,9 +174,9 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | ABB | [Senior Software Engineer – Agentic AI](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Senior-AI-Engineer---Agentic-Systems_JR00046197) | Krakow, Lesser Poland, Poland |  | 2026-11-03 |
 | NVIDIA | [Senior AI Agent Test Developer, SDET](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Agent-Test-Developer--SDET_JR2029313) | US, CA, Santa Clara |  | 2026-11-03 |
 | State Street | [Global Delivery Simplification Managing Director - Agentic AI Transformation, Enablement & Delivery](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Global-Delivery-Simplification-Managing-Director---Agentic-AI-Transformation--Enablement---Delivery_R-800714-2) | Bangalore, India |  | 2026-11-03 |
-| General Dynamics Information Technology | [Principal Agentic AI Full Stack Software Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Arlington/Principal-Agentic-AI-Full-Stack-Software-Engineer_RQ226476-1) | USA VA Arlington | USD 143k-193k | 2026-11-03 |
 | AT&T | [Sr. Principal Autonomous Networks & Agentic AI Architect – 5G Mobile Core](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWABothell--20309-North-Creek-Pkwy---Adm-bothell-720309-N-Creek-Pkwy--Bldg-L/Sr-Principal-Autonomous-Networks---Agentic-AI-Architect---5G-Mobile-Core_R-127204-1) | USA:WA:Bothell / 20309 North Creek Pkwy - Adm (bothell 7):20 (remote) |  | 2026-11-03 |
 | KLA | [Agentic AI Software Engineer - Equipment Data Analytics](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Agentic-AI-Software-Engineer---Equipment-Data-Analytics_2641710) | Milpitas, CA |  | 2026-11-03 |
+| General Dynamics Information Technology | [Principal Agentic AI Full Stack Software Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Arlington/Principal-Agentic-AI-Full-Stack-Software-Engineer_RQ226476-1) | USA VA Arlington | USD 143k-193k | 2026-11-03 |
 | Merck | [Director, AI Platform & Agentic Engineering, AI & Genome Sciences](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Director--AI-Platform---Agentic-Engineering--AI---Genome-Sciences_R423830-1) | USA - Massachusetts - Cambridge (320 Bent Street) (hybrid) |  | 2026-11-03 |
 | Cadence Design Systems | [Software Engineer II – Agentic AI & Infrastructure](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/KATO-SCHOLARI-01/Software-Engineer-II---Agentic-AI---Infrastructure_R56413) | KATO SCHOLARI 01 |  | 2026-11-03 |
 | Fidelity National Information Services | [Principal, Solution Leader PS : Enterprise tools and Agentic platforms](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Principal--Solution-Leader-PS---Enterprise-tools-and-Agentic-platforms_JR0310159) | US FL JAX 347 |  | 2026-11-03 |
@@ -217,8 +220,6 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | The Greater Change | [Senior Mobile Systems Engineer (Flutter & Agentic AI)](https://apply.workable.com/j/3F9BAFF988) | Dubai, Dubai, United Arab Emirates |  | 2026-11-02 |
 | Baselayer | [Senior Engineer, Agentic Identity](https://job-boards.greenhouse.io/baselayer/jobs/5469410008) | San Francisco, California | USD 230k-340k | 2026-11-01 |
 | GoOpti B.V. | [Head of AI Engineering (Architecture & Agents)](https://apply.workable.com/j/E8745D3F2C) | United States (remote) | EUR 75k-100k | 2026-11-01 |
-| Clera | [Member of Technical Staff, Agents](https://jobs.ashbyhq.com/Clera/c0b2a6a7-7a76-483a-b009-218767b6cd4a) | Palo Alto (remote) | USD 200k-300k | 2026-10-31 |
-| Clera | [Agent Engineer](https://jobs.ashbyhq.com/Clera/d882e508-03f4-46ae-9253-41f32134bcec) | Palo Alto (remote) |  | 2026-10-31 |
 | Perplexity | [Engineering Manager (Agent Engine)](https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de) | San Francisco | USD 300k-485k | 2026-10-31 |
 | Perplexity | [Member of Technical Staff (AI Software Engineer, Agent Engine)](https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760) | San Francisco | USD 250k-405k | 2026-10-31 |
 | Ample Insight Inc. | [AI Engineer (Agentic Systems)](https://jobs.smartrecruiters.com/AmpleInsightInc/744000158856369) | Toronto, ON, Canada (remote) |  | 2026-10-31 |
@@ -256,8 +257,8 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | NVIDIA | [Lead Principal Engineer, Enterprise Agentic AI Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lead-Principal-Engineer--Enterprise-Agentic-AI-Platform_JR2013809) | US, CA, Santa Clara |  | 2026-10-30 |
 | Cisco | [Principal Engineer – Agentic AI for Network & Security Operations \| 15+ years, Bangalore](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Principal-Engineer---Agentic-AI-for-Network---Security-Operations---15--years--Bangalore_2028494) | Bangalore, India (hybrid) |  | 2026-10-30 |
 | TD Bank | [Engineer II - Senior Agentic AI IGA Developer](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IGA-Development-Engineer_R_1506232) | Toronto, Ontario (onsite) | CAD 97k-137k | 2026-10-30 |
-| Mastercard | [Lead, Software Engineer (Agentic workflows/APIs)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead--Software-Engineer--Agentic-workflows-APIs-_R-292798-1) | Pune, India |  | 2026-10-30 |
 | AstraZeneca | [Product Line Lead, Clinical & Agentic AI](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Product-Line-Lead--Clinical---Agentic-AI_R-263158) | US - Boston - MA |  | 2026-10-30 |
+| Mastercard | [Lead, Software Engineer (Agentic workflows/APIs)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead--Software-Engineer--Agentic-workflows-APIs-_R-292798-1) | Pune, India |  | 2026-10-30 |
 | Michelin | [Senior Software Architect — Spec-Driven & Agentic Systems (F/H) (69)](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Boulogne-Billancourt/Senior-Software-Architect---Spec-Driven---Agentic-Systems--F-H---69-_R-2025045412) | Boulogne Billancourt (hybrid) |  | 2026-10-30 |
 | Fidelity National Information Services | [Engineer Lead, Artificial Intelligence (Agentic AI, Python, LLM) 8 to 10 Years- Pune/ Bangalore](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-Lead--Artificial-Intelligence--Agentic-AI--Python--LLM--8-to-10-Years--Pune--Bangalore_JR0310815) | IND PUNE FL7 |  | 2026-10-30 |
 | Fidelity National Information Services | [Engineer Senior, Artificial Intelligence (Agentic AI, Python, LLM)- 5 to 8 Years- Pune/ Bangalore](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-Senior--Artificial-Intelligence--Agentic-AI--Python--LLM---5-to-8-Years--Pune--Bangalore_JR0310812) | IND PUNE FL7 |  | 2026-10-30 |
@@ -330,9 +331,10 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | AutoDS | [Senior Data Engineer – Data Architecture & Agentic AI](https://job-boards.greenhouse.io/autods/jobs/5465084008) | Tel Aviv (hybrid) |  | 2026-10-27 |
 | Anduril Industries | [Infra Software Engineer, Agentic Runtime](https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007) | Costa Mesa, California, United States; Washington, District | USD 191k-254k | 2026-10-27 |
 | OSEDEA | [Agentic Engineering Architect](https://jobs.lever.co/osedea/14c6a3be-574e-4917-b1b2-33e6fb5e4a76) | Montreal (EN) (hybrid) |  | 2026-10-27 |
+| knowmad mood | [AI Agent Developer (Latam)](https://knowmadmood.teamtailor.com/jobs/8623123-ai-agent-developer-latam) | Latam, LATAM (remote) |  | 2026-10-27 |
 | Scale AI | [Frontier Agent Engineering Manager, Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4747506005) | New York, NY | USD 252k-315k | 2026-10-27 |
 | Lumos | [Software Engineer, AI Agent Governance](https://jobs.ashbyhq.com/lumos/37ecfa5a-f047-4b70-a29b-79cc885df706) | United States (remote) | USD 134k-150k | 2026-10-27 |
-| Baseten | [Software Engineer - Storage Systems (Agent Infra)](https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d) | London (hybrid) | USD 160k-330k | 2026-10-27 |
+| Baseten | [Software Engineer - Storage Systems (Agent Infra)](https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d) | San Francisco (hybrid) | USD 160k-330k | 2026-10-27 |
 | Machine Learning Reply | [Agentic AI Software Engineer](https://machinelearningreply.recruitee.com/o/agentic-ai-software-engineer-16) | Munich, Bayern, Germany (hybrid) |  | 2026-10-27 |
 | Capital One | [AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-workflows--GraphRAG-_R1004621-1) | New York, NY | USD 197k-225k | 2026-10-27 |
 | Booz Allen | [Agentic AI and Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847) | Honolulu, HI |  | 2026-10-27 |
@@ -343,7 +345,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | MUFG | [Senior Power Platform & Agentic AI Engineer, VP](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD) | Jersey City, NJ |  | 2026-10-27 |
 | Intellectsoft | [Senior Engineer, Agent Harness Engineering (IR-557)](https://apply.workable.com/j/EF64D4D47D) | Bengaluru, Karnataka, India |  | 2026-10-27 |
 | Tiger Analytics Inc. | [Agentic AI Architect](https://apply.workable.com/j/BF4F8D2793) | Canada (remote) |  | 2026-10-27 |
-| Baseten | [Software Engineer - Networking (Agent Infra)](https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae) | London (hybrid) | USD 160k-330k | 2026-10-26 |
+| Baseten | [Software Engineer - Networking (Agent Infra)](https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae) | San Francisco (hybrid) | USD 160k-330k | 2026-10-26 |
 | Axion | [Senior/Staff Software Engineer, Agentic Core](https://jobs.ashbyhq.com/axion/e4eb4db7-1426-4fa3-91d4-5b42de86fe37) | San Francisco, CA (hybrid) | USD 230k-300k | 2026-10-26 |
 | Publicis Groupe Holdings B.V | [Senior Software Engineer (AI Platforms & Agentic Systems)](https://careers.publicisgroupe.com/jobs/179584) | Madrid, Spain |  | 2026-10-26 |
 | Hark | [Member of Technical Staff, Computer-Use Agents](https://job-boards.greenhouse.io/hark/jobs/4467843009) | San Jose | USD 180k-450k | 2026-10-26 |
@@ -377,8 +379,8 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | JPMorgan Chase | [Sr Lead Software Engineer - Agentic AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773884) | Jersey City, NJ, United States |  | 2026-10-23 |
 | Micron Technology | [Member of Technical Staff, Agentic AI Architect](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/MTS---Machine-Learning_JR112274) | Fab 10A, Singapore |  | 2026-10-23 |
 | Hitachi | [Agentic Systems Architect](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Agent-Platform-Engineer_R0149214) | Dallas, Texas, United States (hybrid) |  | 2026-10-23 |
-| Target | [Sr Engineer - Agentic Data Platform](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-N-Brooklyn-ParkMN-55445-4301/Sr-Engineer---Agentic-Data-Platform_R0000444911) | 7000 Target Pkwy N, Brooklyn Park,MN 55445-4301 |  | 2026-10-23 |
 | Amgen | [CD&A - Associate Director, Agentic AI Business Solutions](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/CD-A---Associate-Director--Agentic-AI-Solution-Delivery--Neural-Nexus_R-234311) | US - California - Thousand Oaks (hybrid) |  | 2026-10-23 |
+| Target | [Sr Engineer - Agentic Data Platform](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-N-Brooklyn-ParkMN-55445-4301/Sr-Engineer---Agentic-Data-Platform_R0000444911) | 7000 Target Pkwy N, Brooklyn Park,MN 55445-4301 |  | 2026-10-23 |
 | Fidelity National Information Services | [Agentic AI Engineer Senior - 4 to 7 Years](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Artificial-Intelligence---Machine-Learning-Engineer-Lead--4-to-7-Years_JR0310029-1) | IND PUNE FL7 |  | 2026-10-23 |
 | PayPal | [Staff Agentic AI Engineer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Central-Singapore-Singapore/Staff-Agentic-AI-Engineer_R0138537) | Central Singapore, Singapore |  | 2026-10-23 |
 | Embedding VC | [Member of Technical Staff — Agent Post-Training](https://jobs.ashbyhq.com/embedding-vc/eed3615f-6a8a-400f-82b5-44b1f079dbf8) | San Francisco Bay Area (onsite) |  | 2026-10-22 |
@@ -403,6 +405,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Jiffy | [Agentic-First Software Engineer (Relocate to Miami)](https://apply.workable.com/j/3A7AFB4FC9) | New York, New York, United States | USD 150k-265k | 2026-10-22 |
 | moomoo | [2027 Fresh Grad Hire - AI Agent Engineer](https://apply.workable.com/j/6DFF218F5E) | Hong Kong, Hong Kong, Hong Kong |  | 2026-10-22 |
 | Publicis Groupe Holdings B.V | [Senior Vice President, Agentic Measurement](https://careers.publicisgroupe.com/jobs/170414) | New York, New York |  | 2026-10-21 |
+| Apple | [Software Engineer - Agent Development](https://jobs.apple.com/en-us/details/200690641/software-engineer-agent-development) | Hyderabad, India |  | 2026-10-21 |
 | Automox | [Software Engineer - Agent Team](https://job-boards.greenhouse.io/automox/jobs/5454109008) | Remote - US (remote) | USD 122k-160k | 2026-10-21 |
 | STN Inc | [Agent Felet & Multi Agent Systems (Horizon AI)](https://jobs.ashbyhq.com/stninc/a9844451-b4fe-4fce-9142-4297034a374f) | Remote (remote) |  | 2026-10-21 |
 | Strukton Nederland | [Mdr/Sr Power Platform Specialist \| AI-agents en workflows](https://jobs.smartrecruiters.com/StruktonNederland/744000156859345) | Utrecht, UT, Netherlands (onsite) |  | 2026-10-21 |
@@ -411,6 +414,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | DigitalOcean | [Senior Software Engineer II, Agentic AI](https://www.digitalocean.com/careers/position/apply/?gh_jid=7987690) | Seattle | USD 167k-209k | 2026-10-21 |
 | BearingPoint Romania | [AI Editor — Agent Lab (Juniors)](https://bearingpointromania.teamtailor.com/jobs/8583153-ai-editor-agent-lab-juniors) | Sibiu, Romania (hybrid) |  | 2026-10-21 |
 | ALTEN | [AI-Engineer Agentic Development and Enablement (all gender)](https://jobs.smartrecruiters.com/ALTEN/744000156749789) | Nürnberg, BY, Germany (hybrid) |  | 2026-10-21 |
+| Apple | [Senior Security Engineering Manager - Agentic Detection & Threat Hunting](https://jobs.apple.com/en-us/details/200690219/senior-security-engineering-manager-agentic-detection-threat-hunting) | Seattle, United States of America |  | 2026-10-21 |
 | Keysight Technologies, Inc. | [Agentic Systems Architect](https://jobs.keysight.com/jobs/55156) | Gurgaon, India |  | 2026-10-21 |
 | JPMorgan Chase | [Senior Lead Software Engineer - Agentic AI/Java/Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794186) | Plano, TX, United States |  | 2026-10-21 |
 | Citi | [Senior LLM and Agentic AI Engineer - Assistant Vice President](https://jobs.citi.com/job/chennai/senior-llm-and-agentic-ai-engineer-assistant-vice-president/287/102161080128) | Chennai, TN, IN |  | 2026-10-21 |
@@ -489,6 +493,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Invesco | [Senior Software Engineer - Agentic AI and Frontend Applications](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Senior-Software-Engineer---Agentic-AI-and-Frontend-Applications_R-14732) | Atlanta, Georgia | USD 110k-130k | 2026-10-16 |
 | Honeycomb.io | [Senior Software Engineer I - Agent Observability](https://job-boards.greenhouse.io/honeycomb/jobs/5452586008) | Remote - Canada (remote) | CAD 219k-246k | 2026-10-15 |
 | Honeycomb.io | [Senior Software Engineer II - Agent Observability](https://job-boards.greenhouse.io/honeycomb/jobs/5452447008) | Remote - Canada (remote) | CAD 250k-280k | 2026-10-15 |
+| Apple | [ML Data & Eval Engineer, Siri Agent Modeling](https://jobs.apple.com/en-us/details/200689239/ml-data-eval-engineer-siri-agent-modeling) | Cupertino, United States of America |  | 2026-10-15 |
 | Temporal Technologies | [Staff Software Engineer, AI Foundations (AI Agent Optimization)](https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a) | United States (Remote) (remote) | USD 170k-278k | 2026-10-15 |
 | Principal Global Services | [Senior Software Engineer (Automation & AI Agentic Engineer)](https://careers.principal.com/jobs/53054) | Hyderabad, India |  | 2026-10-15 |
 | Clariti Cloud Inc. | [QA Engineer, Agentic Development](https://job-boards.greenhouse.io/clariticloudinc/jobs/8034493003) | CANADA (Remote) (remote) | USD 75k-90k | 2026-10-15 |
@@ -571,33 +576,15 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Tigera | [Senior Software Engineer - Agentic AI security](https://boards.greenhouse.io/tigera/jobs/4742843005?gh_jid=4742843005) | Vancouver | CAD 125k-150k | 2026-10-09 |
 | NICE | [Senior AI Evangelist & Developer Advocate, Agentic AI](https://boards.eu.greenhouse.io/nice/jobs/4999865101?gh_jid=4999865101) | Germany - Remote (remote) |  | 2026-10-09 |
 | CoreWeave Europe | [AI Engineer (Agentic)](https://coreweave.com/careers/job?4720112006&board=coreweaveu&gh_jid=4720112006) | London, England |  | 2026-10-09 |
-| JPMorgan Chase | [Software Engineer III - Data - Agentic Commerce](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795852) | LONDON, LONDON, United Kingdom |  | 2026-10-09 |
-| JPMorgan Chase | [Applied AIML Lead-Python & Agentic AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797643) | GLASGOW, LANARKSHIRE, United Kingdom |  | 2026-10-09 |
-| Airbus | [Gestionnaire senior - Chef Innovation Agentique et d'Affaires / Senior Manager - Head of Agentic & Business Innovation](https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Chef-Innovation-Agentique-et-d-Affaires---Head-of-Agentic---Business-Innovation_JR10423732) | Montreal Area |  | 2026-10-09 |
-| Royal Bank of Canada | [Lead Agentic AI Engineer](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/Minneapolis-Minnesota-United-States-of-America/Lead-Agentic-AI-Engineer_R-0000182936-2) | Minneapolis, Minnesota, United States of America | USD 100k-170k | 2026-10-09 |
-| RELX | [Senior Agentic AI Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Banglore/Senior-Agentic-AI-Engineer_R119492-1) | Banglore |  | 2026-10-09 |
-| Elsevier | [Senior Agentic AI Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Banglore/Senior-Agentic-AI-Engineer_R119492) | Banglore |  | 2026-10-09 |
-| us | [Senior/Staff Software Engineer, Agentic Applications](https://jobs.gem.com/supio/am9icG9zdDqlBpFumfApg8bkd700UjYa) |  (hybrid) | USD 190k-240k | 2026-10-08 |
-| hyperexponential | [Head of Agentic Field Engineering](https://jobs.ashbyhq.com/hyperexponential/fa297e61-be65-4144-8130-627237729494) | New York (hybrid) (hybrid) | USD 250k-300k | 2026-10-08 |
-| Accenture Federal Services | [AI Engineer (Agentic AI) - Secret cleared](https://boards.greenhouse.io/accenturefederalservices/jobs/4719499006?gh_jid=4719499006) | Arlington, VA (onsite) | USD 89k-170k | 2026-10-08 |
-| Datatonic | [Head of Technology Agentic Platform, AMER](https://jobs.ashbyhq.com/datatonic/37eac595-e372-4719-b8fc-2df6cb15a8aa) | Canada (remote) |  | 2026-10-08 |
-| 2N TELEKOMUNIKACE a.s. | [Junior Agentic DevOps Engineer](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000154420959) | Prague, Hlavní město Praha, Czechia (hybrid) |  | 2026-10-08 |
-| Anduril Industries | [Staff AI & Agentic Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5261106007?gh_jid=5261106007) | Costa Mesa, California, United States; Washington, District | USD 180k-245k | 2026-10-08 |
-| Cloudflare | [Software Engineer, Agentic Discovery](https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687) | In-Office (onsite) | EUR 54k-75k | 2026-10-08 |
-| Nebius | [Senior Product Analyst (Agentic Search)](https://careers.nebius.com/?gh_jid=4999524101) | Israel |  | 2026-10-08 |
-| Cloudflare | [Senior Software Engineer, Agentic Discovery](https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000) | In-Office (onsite) | EUR 66k-91k | 2026-10-08 |
-| Zartis | [Agentic Product Engineers](https://jobs.lever.co/zartis/d47ed113-862f-4581-9968-5539b47a7a4e) | LATAM (hybrid) |  | 2026-10-08 |
-| Optiver | [Software Engineer - Agentic SDLC](https://www.optiver.com/join-us/jobs/8875482002/?gh_jid=8875482002) | New York, New York | USD 200k | 2026-10-08 |
-| Advanced Micro Devices, Inc | [Junior Agentic AI Software Development Engineer](https://careers.amd.com/jobs/92910) | Singapore, Singapore | SGD 46k-65k | 2026-10-08 |
 
 ## Research (30)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
 | IFS | 🆕 [Senior Lead / Principal Software Engineer (Agentic Engineering / Research) - IFS Labs](https://jobs.smartrecruiters.com/IFS1/744000160134559) | Colombo, Western Province, Sri Lanka (hybrid) |  | 2026-11-06 |
-| Capital One | 🆕 [Applied Researcher 5 (AI Foundations: Evaluation and Agentic Workflows)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1) | McLean, VA |  | 2026-11-06 |
-| Sanofi | 🆕 [Senior Principal Data Scientist, Agentic AI](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Senior-Principal-Data-Scientist--Agentic-AI_R2873425-1) | Waltham, MA |  | 2026-11-06 |
-| Sana Commerce | 🆕 [Teamlead Research and Design (Agentic AI)](https://jobs.smartrecruiters.com/SanaCommerce/744000159844890) | Dubai, Dubai, United Arab Emirates (hybrid) |  | 2026-11-05 |
+| Capital One | [Applied Researcher 5 (AI Foundations: Evaluation and Agentic Workflows)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1) | McLean, VA |  | 2026-11-06 |
+| Sanofi | [Senior Principal Data Scientist, Agentic AI](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Senior-Principal-Data-Scientist--Agentic-AI_R2873425-1) | Waltham, MA |  | 2026-11-06 |
+| Sana Commerce | [Teamlead Research and Design (Agentic AI)](https://jobs.smartrecruiters.com/SanaCommerce/744000159844890) | Dubai, Dubai, United Arab Emirates (hybrid) |  | 2026-11-05 |
 | Wise | [Lead Data Scientist - Agentic AI / AML](https://jobs.smartrecruiters.com/Wise/744000159590339) | London, United Kingdom (onsite) |  | 2026-11-04 |
 | Bedrock Robotics Inc | [Product Manager, Agents & Auto-Research](https://jobs.ashbyhq.com/bedrock-robotics/3c4311c0-a123-444c-8eff-cdce539b814a) | San Francisco, CA (hybrid) |  | 2026-11-04 |
 | Roche | [Full-Stack AI Engineer / Data Scientist – Agentic Systems](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Full-Stack-AI-Engineer---Data-Scientist---Agentic-Systems_202607-119624) | Hyderabad |  | 2026-11-04 |
@@ -625,20 +612,22 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | MakerMaker | [RESEARCHER, AGENTS FOR AUTOMATED DISCOVERY](https://jobs.ashbyhq.com/makermaker.ai/d20781b4-6126-4f2e-b52b-ed64d922209e) | San Francisco (onsite) |  | 2026-10-12 |
 | Advanced Micro Devices, Inc | [ML Systems Research Engineer, RL / Inference / Agent Systems](https://careers.amd.com/jobs/92704) | Santa Clara, California | USD 178k-255k | 2026-10-12 |
 
-## Product & design (124)
+## Product & design (122)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Capgemini | 🆕 [Principal Agentic AI Product Manager](https://careers.capgemini.com/job/London-Principal-Agentic-AI-Product-Manager/1454246733/) | London, GB |  | 2026-11-08 |
+| Capgemini | 🆕 [Senior Product Manager Software (w/m/d) - Produktstrategie & Agentic AI Enablement](https://careers.capgemini.com/job/Muenchen-Senior-Product-Manager-Software-%28wmd%29-Produktstrategie-&-Agentic-AI-Enablement/1443777933/) | Muenchen, DE |  | 2026-11-08 |
 | Capgemini | 🆕 [Senior Architect & Program Manager -  Agentic AI Transformation](https://careers.capgemini.com/job/New-York%2C-NY-Senior-Architect-&-Program-Manager-Agentic-AI-Transformation-NY-10001/1450950733/) | NY, US | USD 140k-204k | 2026-11-07 |
 | Imprint | 🆕 [Lead Product Manager, Agentic Commerce](https://jobs.ashbyhq.com/imprint/629ef9c3-d53b-41dd-9818-0e56c8f9a58d) | San Francisco (hybrid) | USD 190k-210k | 2026-11-07 |
 | DataSnipper | 🆕 [Senior Product Manager, Agent Builder](https://jobs.ashbyhq.com/datasnipper/cbff7587-ba9a-4a92-a03a-b1fe16fce4bc) | New York | USD 195k-220k | 2026-11-06 |
-| Capgemini | 🆕 [Director Product Owner - Agentic AI](https://careers.capgemini.com/job/Madrid-Director-Product-Owner-Agentic-AI/1435301633/) | Madrid, ES |  | 2026-11-06 |
-| CLANX | 🆕 [Senior Technical Product Manager (AI Agents) - Bengaluru](https://jobs.clanx.ai/o/senior-technical-product-manager-ai-agents-bengaluru) | Bengaluru, Karnātaka, India (onsite) |  | 2026-11-06 |
-| Cummins | 🆕 [Technical Product Manager - Agentic AI Framework](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428992) | Columbus, IN, United States |  | 2026-11-06 |
-| NVIDIA | 🆕 [Senior Product Manager, Agent Optimization](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Agent-Optimization_JR2027147) | US, CA, Santa Clara (remote) |  | 2026-11-06 |
-| Workday | 🆕 [Principal Product Manager - Workday AI - Agent Factory](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Product-Manager---Workday-AI---Agent-Factory_JR-0111441) | Ireland, Dublin (hybrid) |  | 2026-11-06 |
-| ApartmentIQ | 🆕 [Staff Product Manager, Agentic Workflows](https://job-boards.greenhouse.io/apartmentiq/jobs/8355574) | Remote (remote) |  | 2026-11-05 |
-| Dashlane | 🆕 [Staff Product Manager, AI Agents & Assistant](https://job-boards.greenhouse.io/dashlane/jobs/8352607) | Paris, France |  | 2026-11-05 |
+| Capgemini | [Director Product Owner - Agentic AI](https://careers.capgemini.com/job/Madrid-Director-Product-Owner-Agentic-AI/1436683733/) | Madrid, ES |  | 2026-11-06 |
+| CLANX | [Senior Technical Product Manager (AI Agents) - Bengaluru](https://jobs.clanx.ai/o/senior-technical-product-manager-ai-agents-bengaluru) | Bengaluru, Karnātaka, India (onsite) |  | 2026-11-06 |
+| Cummins | [Technical Product Manager - Agentic AI Framework](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428992) | Columbus, IN, United States |  | 2026-11-06 |
+| NVIDIA | [Senior Product Manager, Agent Optimization](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Agent-Optimization_JR2027147) | US, CA, Santa Clara (remote) |  | 2026-11-06 |
+| Workday | [Principal Product Manager - Workday AI - Agent Factory](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Product-Manager---Workday-AI---Agent-Factory_JR-0111441) | Ireland, Dublin (hybrid) |  | 2026-11-06 |
+| ApartmentIQ | [Staff Product Manager, Agentic Workflows](https://job-boards.greenhouse.io/apartmentiq/jobs/8355574) | Remote (remote) |  | 2026-11-05 |
+| Dashlane | [Staff Product Manager, AI Agents & Assistant](https://job-boards.greenhouse.io/dashlane/jobs/8352607) | Paris, France |  | 2026-11-05 |
 | Plaid | [Product Manager - Agent Trust](https://jobs.ashbyhq.com/plaid/39168403-8a4d-47eb-b601-67f7f84a7439) | New York City Office (hybrid) | USD 191k-287k | 2026-11-05 |
 | Plaid | [Staff Product Manager - Agent Trust](https://jobs.ashbyhq.com/plaid/b5060d3e-7714-4f71-8141-b3956ef3af57) | New York City Office (hybrid) | USD 208k-340k | 2026-11-05 |
 | IQVIA | [Chef de Produit Principal – Agentic IA / Senior Product Manager – Agentic AI (Remote)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Ottawa-Ontario-Canada/Chef-de-Produit-Principal---Agentic-IA---Senior-Product-Manager---Agentic-AI--Remote-_R1553337) | Ottawa, Ontario, Canada (remote) |  | 2026-11-05 |
@@ -670,6 +659,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | LPL Financial Holdings | [VPII Product Management, Agentic Product Development Lifecycle](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VPII-Product-Management--Agentic-Product-Development-Lifecycle_R-054546-1) | Fort Mill/Charlotte |  | 2026-11-02 |
 | Actionstep | [Senior Product Manager - AI Agents](https://apply.workable.com/j/39ACBBE8EE) | Toronto, Ontario, Canada (remote) |  | 2026-11-02 |
 | Fidelity Investments | [Senior Manager, Platform Product Management & Agentic AI](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Bangalore-Karnataka/Product-Manager---Senior-Manager-Product-Support_2133900) | Bangalore, Karnataka |  | 2026-10-31 |
+| Jetson Home | [Product Manager, Agentic Products](https://job-boards.greenhouse.io/jetsonhome/jobs/4475037009?gh_jid=4475037009) | Kitchener, ON | USD 125k-158k | 2026-10-30 |
 | Harness | [Staff Product Manager – Agentic Application Security Testing](https://www.harness.io/company/jobs/apply?gh_jid=5278997007&gh_jid=5278997007) | Bengaluru, Karnataka, India |  | 2026-10-30 |
 | Menlo | [Product Manager, Agent Harness (Robotics)](https://jobs.ashbyhq.com/menlo/c8c115f2-3dcd-4d3b-bd1e-ab8221d79e98) | Palo Alto (hybrid) |  | 2026-10-30 |
 | SnapSoft Kft. | [Senior Product Owner (AI & Agentic Automation)](https://snapsoft.recruitee.com/o/senior-product-owner-ai-agentic-automation) | Budapest, Budapest, Hungary (hybrid) |  | 2026-10-30 |
@@ -682,6 +672,7 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Pylon | [Lead Product Manager, Agent Platform](https://jobs.ashbyhq.com/pylon/7fcba195-a756-4674-ad35-3d6a024f07ed) | NYC or Palo Alto (in office) (onsite) |  | 2026-10-29 |
 | Salesforce | [Director of Product Management, Agent-Native Web Experiences](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-of-Product-Management--Agent-Native-Web-Experiences_JR355984-1) | California - San Francisco | USD 197k-314k | 2026-10-29 |
 | Salesforce | [Director, Product Management — Campaign Brief Agent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director--Product-Management---Campaign-Brief-Agent_JR355350) | California - San Francisco | USD 197k-314k | 2026-10-29 |
+| Apple | [Machine Learning Engineer, Agentic AI- Worldwide Product Marketing](https://jobs.apple.com/en-us/details/200657395/machine-learning-engineer-agentic-ai-worldwide-product-marketing) | Cupertino, United States of America |  | 2026-10-28 |
 | eMAG | [Product Manager (Discovery & Agentic Shopping)](https://teams.emag.ro/jobs/?gh_jid=5017597101) | Bucharest, Bucharest, Romania |  | 2026-10-28 |
 | Horizon3 | [Staff Product Manager, Agentic Data Platform](https://jobs.ashbyhq.com/horizon3ai/7a47e756-3a9a-4042-b114-bf05015e011c) | San Francisco, California (hybrid) | USD 194k-265k | 2026-10-27 |
 | Experian | [Senior Product Manager - Fraud and ID Agent](https://jobs.smartrecruiters.com/Experian/744000158016594) | Hyderabad, India (onsite) |  | 2026-10-27 |
@@ -747,34 +738,27 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | United Parcel Service (UPS) | [Senior Experience Designer - Agentic Interaction Design](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Machine-Learning-Engineer---MLOps--VertexAI--LLMs--GenAI--ML-Model-Management_R25018678) | IN - TDC 1 (IN110) |  | 2026-10-12 |
 | ZoomInfo Technologies LLC | [Senior Director, Product Management, Agentic Platform](https://www.zoominfo.com/careers?gh_jid=8876309002) | Remote-US (remote) | USD 193k-303k | 2026-10-09 |
 | Datadog | [Product Manager II - Agent Observability](https://careers.datadoghq.com/detail/8267546/?gh_jid=8267546) | New York, New York, USA | USD 156k-195k | 2026-10-09 |
-| OKX | [Senior Product Director, AI & Agent](https://job-boards.greenhouse.io/okx/jobs/8018541003) | Hong Kong, Hong Kong SAR |  | 2026-10-09 |
-| Hover | [Lead Product Manager, Agentic UX](https://hover.to/job-posts/8243544/?gh_jid=8243544) | san\_francisco | USD 196k-286k | 2026-10-08 |
-| ServiceNow | [Senior Staff Inbound Product Manager - Agentic AI Platform - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000154473649) | Mountain View, California, United States (onsite) |  | 2026-10-08 |
-| ServiceNow | [Staff Outbound Product Manager - AI Agentic Platform-Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000154471344) | Mountain View, California, United States (onsite) |  | 2026-10-08 |
-| Okta | [Senior Product Manager, Okta for AI Agents](https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918) | Bellevue, Washington; Chicago, Illinois; New York, New York; | USD 189k-260k | 2026-10-08 |
-| IFS | [Lead/Principal Agentic AI Full Stack Engineer - (UX & Frontend Framework)](https://jobs.smartrecruiters.com/IFS1/744000154383130) | Colombo, Western Province, Sri Lanka (onsite) |  | 2026-10-08 |
 
-## Solutions & sales (75)
+## Solutions & sales (71)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| Capgemini | 🆕 [Managing Consultant/Consultante - Transformation IA & Agentic AI](https://careers.capgemini.com/job/Issy-les-Moulineaux-Managing-ConsultantConsultante-Transformation-IA-&-Agentic-AI/1263840901/) | Issy-les-Moulineaux, FR |  | 2026-11-07 |
-| Capgemini | 🆕 [Solution Architect (Agentic AI, GenAI, Custom Development)](https://careers.capgemini.com/job/Gda%C5%84sk-Solution-Architect-%28Agentic-AI%2C-GenAI%2C-Custom-Development%29/1396970133/) | Gdańsk, PL |  | 2026-11-07 |
 | Capgemini | 🆕 [Senior Consultant - Agentic AI / Generative AI](https://careers.capgemini.com/job/London-Senior-Consultant-Agentic-AI-Generative-AI/1440553633/) | London, GB |  | 2026-11-07 |
-| Capgemini | 🆕 [Agentic AI Consultant Public Sector (w/m/d)](https://careers.capgemini.com/job/Berlin-Agentic-AI-Consultant-Public-Sector-%28wmd%29/1412797233/) | Berlin, DE |  | 2026-11-07 |
 | Akamai Technologies | 🆕 [Senior Security Sales Specialist - API & AI Agent Security (SEA),Singapore](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4278) | Singapore (remote) |  | 2026-11-07 |
 | Accenture | 🆕 [Consultant Hybrid Cloud & Agentic AI (all genders)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Munich/Consultant--Professional-Hybrid-Cloud--all-genders-_R00278920) |  (hybrid) |  | 2026-11-07 |
+| Kyndryl | 🆕 [Assoc Partner, Consult Partner - Agentic Ai for Business Workflows](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Job-Posting-Title-Assoc-Partner--Consult-Partner---Agentic-Ai-for-Business-Workflows_R-71799-1) | Dallas (USDALFRI) Frisco AI HUB (remote) | USD 186k-334k | 2026-11-07 |
 | Revin | 🆕 [Forward Deployed Engineer — Conversational Agents](https://jobs.ashbyhq.com/revin/8c25ce0d-e405-477d-acea-3cf6d0109356) | New York City (onsite) | USD 120k-200k | 2026-11-06 |
 | Cresta | 🆕 [Marketing Engineer (AI Agents)](https://job-boards.greenhouse.io/cresta/jobs/5476127008) | United States (Remote) (remote) | USD 160k-280k | 2026-11-06 |
 | EWOR GmbH | 🆕 [Agentic AI Technical Sales (100 % remote) (m/f/d)](https://eworgmbh.teamtailor.com/jobs/8679564-agentic-ai-technical-sales-100-remote-m-f-d) | Prague, Czechia (remote) |  | 2026-11-06 |
 | Neuron 7 | 🆕 [Regional Vice President, Sales – Enterprise AI & Agentic Solutions  \| US-Remote](https://jobs.lever.co/neuron7/7e24e923-0547-4059-8357-9c80f60f4318) | Remote (remote) |  | 2026-11-06 |
 | project44 | 🆕 [Agent Solution Architect (Logistics)](https://job-boards.greenhouse.io/project44/jobs/8345245) | Bengaluru, India |  | 2026-11-06 |
 | UiPath | 🆕 [Senior Enterprise Account Executive (Agentic AI Automation)](https://jobs.ashbyhq.com/uipath/7cd20743-6956-4d6e-a31d-e91591553a93) | Hong Kong (onsite) |  | 2026-11-06 |
-| Accenture | 🆕 [RIS AWS (Agentic AI) Solution Architect Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/RIS-AWS--Agentic-AI--Solution-Architect-Associate-Director_14777546) |  |  | 2026-11-06 |
-| Intel | 🆕 [Solution Engineer — Edge Agentic AI](https://intel.wd1.myworkdayjobs.com/External/job/Saudi-Arabia-Riyadh/Solution-Engineer---Edge-Agentic-AI--Saudi-_JR0288836) | Saudi Arabia, Riyadh |  | 2026-11-06 |
-| Intel | 🆕 [AI Solution Architect — Edge Agentic and Physical AI](https://intel.wd1.myworkdayjobs.com/External/job/Saudi-Arabia-Riyadh/AI-Solution-Architect---Edge-Agentic-and-Physical-AI_JR0288835) | Saudi Arabia, Riyadh |  | 2026-11-06 |
-| Wavestone | 🆕 [Senior Consultant – Generative AI & Agentic Engineer (H/F/X)](https://jobs.smartrecruiters.com/Wavestone1/744000159834369) | Puteaux, IDF, France (onsite) |  | 2026-11-05 |
-| EVERSANA | 🆕 [AI Solutions Engineer (Generative AI & Agentic AI)](https://jobs.smartrecruiters.com/EVERSANA1/744000159792319) | Pune, MH, India (remote) |  | 2026-11-05 |
+| Accenture | [Agentic Strategy & Advisory Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-Experience---Service-Transformation-Management-Consultant_R00290297) | London (hybrid) |  | 2026-11-06 |
+| Accenture | [RIS AWS (Agentic AI) Solution Architect Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/RIS-AWS--Agentic-AI--Solution-Architect-Associate-Director_14777546) |  |  | 2026-11-06 |
+| Intel | [Solution Engineer — Edge Agentic AI](https://intel.wd1.myworkdayjobs.com/External/job/Saudi-Arabia-Riyadh/Solution-Engineer---Edge-Agentic-AI--Saudi-_JR0288836) | Saudi Arabia, Riyadh |  | 2026-11-06 |
+| Intel | [AI Solution Architect — Edge Agentic and Physical AI](https://intel.wd1.myworkdayjobs.com/External/job/Saudi-Arabia-Riyadh/AI-Solution-Architect---Edge-Agentic-and-Physical-AI_JR0288835) | Saudi Arabia, Riyadh |  | 2026-11-06 |
+| Wavestone | [Senior Consultant – Generative AI & Agentic Engineer (H/F/X)](https://jobs.smartrecruiters.com/Wavestone1/744000159834369) | Puteaux, IDF, France (onsite) |  | 2026-11-05 |
+| EVERSANA | [AI Solutions Engineer (Generative AI & Agentic AI)](https://jobs.smartrecruiters.com/EVERSANA1/744000159792319) | Pune, MH, India (remote) |  | 2026-11-05 |
 | American Express | [Senior Manager - Agentic Partnerships and Strategy, Payments](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016148) | New York, NY, United States (hybrid) |  | 2026-11-05 |
 | PricewaterhouseCoopers (PwC) | [IN\_Senior Associate\_GenAI and Agentic AI\_GCC\_Advisory\_Hyderabad](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-AI-Engineer--Java-Microservices-Focus---GCC-Adviosry-Bangalore_746610WD-1) | Hyderabad - Salarpuria |  | 2026-11-05 |
 | CI&T | [\[Job - 32553\]Solutions Architect (Agentic Ops) , Brazil](https://jobs.lever.co/ciandt/e6666c0b-b1a5-434e-b2a5-3a8bf7ebcf57) | Brazil (remote) |  | 2026-11-04 |
@@ -830,27 +814,25 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Nagarro | [Associate Distinguished Engineer (Solution Architect - GenAI + RAG + Agentic AI, Cloud, data architecture, Integration Architecture)](https://jobs.smartrecruiters.com/Nagarro1/744000154824349) | Remote, India (onsite) |  | 2026-10-10 |
 | Sitetracker | [Senior Salesforce Administrator - Agentic AI](https://jobs.lever.co/sitetracker/16057786-e68a-48ff-b35c-79386bada12e) | Bangalore (hybrid) |  | 2026-10-09 |
 | Sitetracker | [Salesforce Administrator II - Agentic AI](https://jobs.lever.co/sitetracker/30466775-cb82-43f9-a251-efeb43db1b33) | Bangalore (hybrid) |  | 2026-10-09 |
-| Coinbase | [Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)](https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232) | Remote - USA (remote) | USD 186k-219k | 2026-10-08 |
-| Prodigal | [Forward Deployed Engineer - AI Agents](https://job-boards.greenhouse.io/prodigal/jobs/5261059007) | Mumbai |  | 2026-10-08 |
-| Tigera | [Pre-Sales Solutions Architect – AI Agent & Workload Security](https://boards.greenhouse.io/tigera/jobs/4741256005?gh_jid=4741256005) | Cork City, Ireland |  | 2026-10-08 |
 
-## Internships (55)
+## Internships (57)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
 | DocuSign | 🆕 [Agentic AI Engineer Intern](https://careers.docusign.com/jobs/30587) | San Francisco, California | USD 34-44/h | 2026-11-06 |
 | Keysight Technologies, Inc. | 🆕 [Agentic AI — PhD Intern (Modeling Agent)](https://jobs.keysight.com/jobs/54739) | Calabasas, California; Santa Rosa, California |  | 2026-11-06 |
 | Keysight Technologies, Inc. | 🆕 [Agentic AI — PhD Intern (Autonomous AI Agent)](https://jobs.keysight.com/jobs/54741) | Calabasas, California; Santa Rosa, California |  | 2026-11-06 |
+| Apple | 🆕 [Internship - Reasoning and agentic capabilities of LLMs](https://jobs.apple.com/en-us/details/200693685/internship-reasoning-and-agentic-capabilities-of-llms) | Zurich, Switzerland |  | 2026-11-06 |
 | Sopra Steria | 🆕 [Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes](https://jobs.smartrecruiters.com/SopraSteria1/744000160156194) | Cesson-Sévigné, Bretagne, France (hybrid) |  | 2026-11-06 |
-| Toyota Research Institute | 🆕 [Accelerated Science Intern, Multi-Agent Learning and Coordination](https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d) | Los Altos, CA (hybrid) |  | 2026-11-05 |
-| Lely | 🆕 [Internship: AI for Sustainability - Building an ESG Market Entry Assessment Agent](https://jobs.smartrecruiters.com/Lely1/744000159926354) | Maassluis, ZH, Netherlands (onsite) |  | 2026-11-05 |
+| Toyota Research Institute | [Accelerated Science Intern, Multi-Agent Learning and Coordination](https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d) | Los Altos, CA (hybrid) |  | 2026-11-05 |
+| Lely | [Internship: AI for Sustainability - Building an ESG Market Entry Assessment Agent](https://jobs.smartrecruiters.com/Lely1/744000159926354) | Maassluis, ZH, Netherlands (onsite) |  | 2026-11-05 |
 | Thermo Fisher Scientific | [Internship - Build an agentic software refactoring workflow](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1) | Eindhoven, Netherlands |  | 2026-11-05 |
 | NVIDIA | [Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260) | US, CA, Santa Clara |  | 2026-11-05 |
 | Huawei Research Center Germany | [Intern - Software Engineer, Spatial AI Agent Platform](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8665769-intern-software-engineer-spatial-ai-agent-platform) | München, Germany (onsite) |  | 2026-11-04 |
 | The Utopia Venture Platform | [Agentic Operator Internship — Product Building](https://jobs.ashbyhq.com/the-studio/34b7c20c-6839-4e92-a0d8-5ec8019c8af1) | Doha (onsite) |  | 2026-11-04 |
 | The Utopia Venture Platform | [Agentic Operator Internship — Marketers Team](https://jobs.ashbyhq.com/the-studio/357ed005-0af9-4afa-9f92-f51e5c050e1a) | Doha (hybrid) |  | 2026-11-04 |
+| Apple | [Software Engineer Intern (Full-Stack & AI Agents) - Shanghai](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai) | Shanghai, China |  | 2026-11-04 |
 | NVIDIA | [Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | US, CA, Santa Clara |  | 2026-11-04 |
-| NXP Semiconductors | [Working Student (f/m/d) LLM Wiki & Agentic AI Knowledge Systems](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student--f-m-d--AI-Enabled-Knowledge-and-Work-Systems_R-10064063) | Hamburg |  | 2026-11-04 |
 | Smith+Nephew | [Intern Agentic AI Software Engineering](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) | Andover, MA | USD 27-32/h | 2026-11-04 |
 | Chanel | [Stage - Assistant IA & Agentic pour l’Employee Experience - Parfums Beauté - F/H/X - Mars 2027](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-IA---Agentic-pour-l-Employee-Experience---Parfums-Beaut---F-H-X---Mars-2027_JOBREQ00118626-1) | Neuilly-Sur-Seine |  | 2026-11-03 |
 | Tencent | [LLM & Agent Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108285) | United Kingdom-London (onsite) |  | 2026-11-03 |
@@ -880,8 +862,10 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | Schneider Electric | [Stage – Optimisation du Routage des Agents d’Intelligence Artificielle - H/F](https://se.jibeapply.com/jobs/136532) | GRENOBLE, France |  | 2026-10-20 |
 | Nissan Global | [AI Agent Architect Intern - Summer 2027 - Farmington Hills, MI](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) | Farmington Hills, Michigan - United States of America |  | 2026-10-20 |
 | Vanderlande Industries | [Internship/Graduation: Agentic AI Systems for Software Re-engineering](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496) | Veghel, Netherlands |  | 2026-10-20 |
+| Apple | [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) | Munich, Germany |  | 2026-10-19 |
 | Solink | [Software Engineer Co-op, Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) | Canada (remote) | CAD 52k-68k | 2026-10-19 |
 | NVIDIA | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476) | China, Shanghai |  | 2026-10-19 |
+| Apple | [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) | Paris, France |  | 2026-10-17 |
 | LG AI Research | [AI Engineer Internship - Agentic AI (Backend)](https://www.lgresearch.ai/careers?gh_jid=4744424005) | Gangseo-gu, Seoul, South Korea |  | 2026-10-16 |
 | Tencent | [LLM Agent Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM-Agent-Research-Intern_R108250-1) | United Kingdom-London (onsite) |  | 2026-10-14 |
 | Wavestone | [Consultant.e.s - Stage de fin d'études - Nantes – CIO – Comment industrialiser un cabinet de conseil IA-native ? Doctrine et POCs d'agents Copilot Studio pour les process internes](https://jobs.smartrecruiters.com/Wavestone1/744000155234099) | Nantes, Pays de la Loire, France (hybrid) |  | 2026-10-13 |
@@ -892,7 +876,6 @@ Filterable page: [jordan-belfort-ai.github.io/Agentic-AI-Jobs](https://jordan-be
 | D ONE | [Internship - Agentic Software Engineering (Zurich, Switzerland)](https://apply.workable.com/j/BD5B4B9966) | Zürich, Zurich, Switzerland |  | 2026-10-12 |
 | D ONE | [Internship - Red Teaming of LLM and Agent-Based Applications (Zurich)](https://apply.workable.com/j/7A3FF9AB88) | Zürich, Zurich, Switzerland |  | 2026-10-12 |
 | ProCogia | [AI Intern, Applied & Agentic AI (December 2026 to April 2027)](https://procogia.com/about-us/careers/?gh_jid=5448664008) | Vancouver, BC (on-site) (onsite) |  | 2026-10-09 |
-| Tencent | [Coding Agent Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Coding-Agent-Research-Intern_R108212) | Singapore-CapitaSky (onsite) |  | 2026-10-09 |
 
 ## Get this feed yourself
 
